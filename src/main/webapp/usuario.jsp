@@ -15,6 +15,7 @@ con.conexiondb();
 %>
 <form action="ServletGestionUsuario" method="post">
 <h1>Formulario deeee  ingreso</h1>
+<h2>gestión clientes</h2>
 <input type="text" name="doc">
 <input type="text" name="usu">
 <input type="text" name="cla">
